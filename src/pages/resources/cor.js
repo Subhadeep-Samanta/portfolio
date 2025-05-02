@@ -22,5 +22,10 @@ export const course = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEIVA6MPvuM_5PZUgV-8RtsS1YW27i15o1AQ&s",
     link: "React is a beginner-friendly library for building dynamic web apps.",
-  },
+  },{
+    title: "JAVA",
+    image:
+      "https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-logos-icons-1720088.png",
+    link: "Java is a powerful and beginner-friendly programming language for building robust and scalable applications.",
+  }
 ];
