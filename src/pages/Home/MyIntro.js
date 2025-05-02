@@ -1,8 +1,15 @@
 import React from "react";
-
+import profile from "../../assets/pro.jpg"
 function MyIntro() {
   return (
     <div className="h-[80vh] bg-primary flex flex-col items-start justify-center gap-8">
+      <div className="w-40 h-40 sm:w-48 sm:h-48 rounded-full overflow-hidden border-4 border-secondary mb-6 sm:mb-8">
+        <img
+          src={profile}
+          alt="Subhadeep Samanta"
+          className="w-full h-full object-cover"
+        />
+      </div>
       <h1 className="text-white">Hi , I am</h1>
       <h1 className="text-7xl sm:text-3xl text-secondary font-serif">
         Subhadeep Samanta

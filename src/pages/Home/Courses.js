@@ -1,6 +1,6 @@
 import React from "react";
 import SectionTitle from "../../components/SectionTitle";
-import { course } from "../../resources/cor";
+import { course } from "../resources/cor";
 function Courses() {
   const [selectedItemIndex, setselectedItemIndex] = React.useState(0);
 
