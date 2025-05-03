@@ -2,7 +2,7 @@ import React from "react";
 import SectionTitle from "../../components/SectionTitle";
 
 function About() {
-  const skills = ["HTML", "CSS", "Javascript", "React", "C++", "Java"];
+  const skills = ["HTML", "CSS", "Javascript", "React", "C++", "Java","Python"];
   return (
     <div>
       <SectionTitle title="About" />
