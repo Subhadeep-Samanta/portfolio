@@ -17,7 +17,7 @@ function MyIntro() {
         Subhadeep Samanta
       </h1>
       <h1 className="text-5xl sm:text-3xl text-white font-semibold">
-        This is my portfolio project
+        This is my portfolio ✨
       </h1>
       <p className="text-white">
         "CSE student at Chitkara University X Kalvium, learning about technology
