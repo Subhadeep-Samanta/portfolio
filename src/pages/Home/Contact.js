@@ -3,12 +3,13 @@ import SectionTitle from "../../components/SectionTitle";
 function Contact() {
   const user = {
     name: "Subhadeep Samanta",
-    age: "19+",
+    age: "20+",
     gender: "Male",
     email: "subhadeepsamanta1535@gmail.com",
     mobile: "7001293796",
     country: "INDIA",
     state: "West Bengal",
+    D.O.B:"25/11/2005"
   };
   return (
     <div>
