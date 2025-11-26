@@ -9,7 +9,7 @@ function About() {
       <div className="flex w-full items-center sm:flex-col">
         <div className="h-[70vh] w-1/2 sm:w-full">
           <lottie-player
-            src="https://lottie.host/4db68bbd-31f6-4cd8-84eb-189de081159a/IGmMCqhzpt.json"
+            src="https://lottie.host/3e6af7d0-3f43-4a8c-bdf0-9fab95cf0f5f/HtRy6nSS7I.json"
             background="##FFFFFF"
             speed="1"
             autoplay
