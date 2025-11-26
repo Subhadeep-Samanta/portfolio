@@ -9,7 +9,7 @@ function Contact() {
     mobile: "7001293796",
     country: "INDIA",
     state: "West Bengal",
-    D.O.B:"25/11/2005"
+    D_O_B:"25/11/2005"
   };
   return (
     <div>
