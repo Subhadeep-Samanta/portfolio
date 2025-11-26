@@ -10,7 +10,7 @@ function Leftsider() {
           </a>
 
           <i class="ri-mail-line text-gray-600 text-xl"></i>
-          <a href="https://www.instagram.com/subhadeepsamanta1535/?hl">
+          <a href="https://www.instagram.com/bak_bencher_1/?hl">
             <i class="ri-instagram-line text-gray-600 text-xl"></i>
           </a>
           <a href="https://www.linkedin.com/in/subhadeep-samanta-550762254/">
